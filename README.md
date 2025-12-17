@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## PROJECT OVERVIEW
 This is a modern frontend web application built using a fast and scalable technology stack.
 
@@ -52,3 +53,6 @@ Deploy the production build using any hosting provider that supports static or V
 
 ## LICENSE
 This project is open for development and customization.
+=======
+# Lodha-FinanceFlow
+>>>>>>> f02963f01d205e7245a9372253679fb2ea6ae6a3
